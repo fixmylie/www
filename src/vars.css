@@ -1,0 +1,8 @@
+:root {
+    --color-text: #000;
+
+    --color-link: #2E8BC0;
+    --color-link-hover: #145DA0;
+
+    --duration-transition: 150ms;
+}

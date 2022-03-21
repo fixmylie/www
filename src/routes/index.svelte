@@ -2,15 +2,13 @@
 	<title>gurinovich.ru</title>
 </svelte:head>
 
-<h1>Привет 👋</h1>
-<p>
-	<a href="#hello">Ссылка</a>
-</p>
+<h1>Гуринович Роман</h1>
+
+<ul>
+	<li>
+		<a href="https://github.com/fixmylie" target="_blank">GitHub</a>
+	</li>
+</ul>
 
 <style lang="postcss">
-	p {
-		& a {
-			color: red;
-		}
-	}
 </style>

@@ -1,3 +1,13 @@
 body {
     font-family: -apple-system, BlinkMacSystemFont, 'Ubuntu', 'Helvetica', 'Arial', sans-serif;
 }
+
+a {
+    color: var(--color-link);
+
+    transition: ease color var(--duration-transition);
+
+    &:hover {
+        color: var(--color-link-hover);
+    }
+}
