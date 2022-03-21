@@ -6,7 +6,6 @@ const config = {
 	preprocess: preprocess({ postcss: true }),
 	kit: {
 		adapter: adapter(),
-		appDir: 'internal',
     prerender: {
       default: true
     }
