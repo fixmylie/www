@@ -1,0 +1,1 @@
+:root{--color-text: #000;--color-link: #2E8BC0;--color-link-hover: #145DA0;--duration-transition: .15s}body{font-family:-apple-system,BlinkMacSystemFont,Ubuntu,Helvetica,Arial,sans-serif}a{color:var(--color-link);transition:ease color var(--duration-transition)}a:hover{color:var(--color-link-hover)}
