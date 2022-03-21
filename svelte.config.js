@@ -12,6 +12,9 @@ const config = {
 			base: dev ? '' : '/www',
 		},
 		appDir: 'internal',
+    prerender: {
+      default: true
+    }
 	}
 };
 
